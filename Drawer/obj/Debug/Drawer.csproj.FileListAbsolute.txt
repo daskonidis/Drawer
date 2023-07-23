@@ -1,0 +1,9 @@
+D:\Projects\Drawer\Drawer\bin\Debug\Drawer.exe.config
+D:\Projects\Drawer\Drawer\bin\Debug\Drawer.exe
+D:\Projects\Drawer\Drawer\bin\Debug\Drawer.pdb
+D:\Projects\Drawer\Drawer\obj\Debug\Drawer.csprojResolveAssemblyReference.cache
+D:\Projects\Drawer\Drawer\obj\Debug\Drawer.frmMain.resources
+D:\Projects\Drawer\Drawer\obj\Debug\Drawer.Properties.Resources.resources
+D:\Projects\Drawer\Drawer\obj\Debug\Drawer.csproj.GenerateResource.Cache
+D:\Projects\Drawer\Drawer\obj\Debug\Drawer.exe
+D:\Projects\Drawer\Drawer\obj\Debug\Drawer.pdb
